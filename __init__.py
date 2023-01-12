@@ -49,7 +49,7 @@ class NormalModel(Toplevel):
 		self.image = Label(self, image = image)
 		self.image.pack(side = LEFT, fill = X, padx = 25, pady = 10)
 		self.info = Label(self, text = self.mtext)
-		self.info.pack(side = LEFT, fill = X, padx = 15, pady = 10)
+		self.info.pack(side = LEFT, fill = X, padx = 25, pady = 10)
 		
 		try:
 			if not isDark(): 
