@@ -16,5 +16,6 @@ from messagebox import *
 root = Tk()
 showinfo("This is a test", "This is a test")
 root.mainloop()
-
 ```
+### Future Idea:
+> - [ ] More messagebox
