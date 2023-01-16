@@ -19,3 +19,9 @@ root.mainloop()
 ```
 ### Future Idea:
 > - [ ] More messagebox
+
+### PyPi:
+link: https://pypi.org/project/TkinterMessagebox/1.0.1/
+```batch
+pip install TkinterMessagebox==1.0.1
+```
